@@ -10,6 +10,7 @@
         "jenssegers/agent": "^2.6",
         "laravel/framework": "^11.9",
         "laravel/tinker": "^2.9",
+        "laravel/vapor-core": "^2.37",
         "torann/geoip": "^3.0"
     },
     "require-dev": {
